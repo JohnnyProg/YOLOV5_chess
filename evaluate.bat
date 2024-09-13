@@ -1,0 +1,1 @@
+python val.py --weights runs/train/yolov5m_batch_12_epochs_40_V3/weights/best.pt --data "E:\projects\chessRecognitionYOLOv5\data\combinedV3Augm\data.yaml"

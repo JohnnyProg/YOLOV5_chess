@@ -1,0 +1,1 @@
+python train.py --data "E:\projects\chessRecognitionYOLOv5\data\chessboardV2\data.yaml" --weights yolov5m.pt --batch-size 12 --epochs 200
